@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\programer1\\source\\repos\\BookShop\\BookShop\\BookShop.csproj": {}
+    "C:\\Users\\programer1\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\programer1\\source\\repos\\BookShop\\BookShop\\BookShop.csproj": {
+    "C:\\Users\\programer1\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop\\BookShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\programer1\\source\\repos\\BookShop\\BookShop\\BookShop.csproj",
+        "projectUniqueName": "C:\\Users\\programer1\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
         "projectName": "BookShop",
-        "projectPath": "C:\\Users\\programer1\\source\\repos\\BookShop\\BookShop\\BookShop.csproj",
+        "projectPath": "C:\\Users\\programer1\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop\\BookShop.csproj",
         "packagesPath": "C:\\Users\\programer1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\programer1\\source\\repos\\BookShop\\BookShop\\obj\\",
+        "outputPath": "C:\\Users\\programer1\\Desktop\\BookShop\\BookShop\\BookShop\\BookShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
